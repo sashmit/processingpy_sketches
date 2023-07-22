@@ -1,4 +1,4 @@
-Noodling with processing's python support mostly tgo learn it.
+Noodling with processing's python support mostly to learn it.
 
 ## Usage
 
